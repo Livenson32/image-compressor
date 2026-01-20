@@ -1,7 +1,7 @@
+node_modules/
+build/
+*.log
 .DS_Store
 .vscode
-build
-node_modules
-npm-debug.log
-yarn-error.log
-yarn.lock
+__pycache__/
+.pre-commit-config.yaml.bak
