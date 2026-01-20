@@ -1,2 +1,39 @@
-# oxipng-web
-PNG optimizer website powered by oxipng via jSquash WebAssembly
+<p align="center">PNG optimizer website using oxipng via jSquash WebAssembly</p>
+
+---
+
+## [Blairpng](https://blairpng.pages.dev/) (live demo)
+
+This website uses an **[oxipng](https://github.com/oxipng/oxipng)** WebAssembly binary via **[jSquash](https://www.npmjs.com/package/@jsquash/oxipng)** for lossless compression with **batch file upload support** all while maintaining **complete data privacy** without requiring to use Rust tools or **[Squoosh.app](https://squoosh.app/)** which does not support batch uploading and has memory limitations making you unable to use the maximum compression level on low end devices.
+
+## Features
+
+* Oxipng Level 1-6 lossless compression
+* Supports batch file uploading
+* Supports optional image resizing using [Pica](https://github.com/nodeca/pica) (Lanczos3, etc)
+* Supports optional color palette reduction using [image-quantization](https://github.com/ibezkrovnyi/image-quantization)
+* Privacy Focused (no server side execution)
+* No Rust Installation or tools needed
+
+---
+
+## Settings
+
+| Option | Technical Function | Default |
+| --- | --- | --- |
+| `level` | Optimization preset (0-6) | `3` |
+| `optimize_alpha` | Optimizes transparent pixels | `true` |
+| `interlace` | Toggle Adam7 interlacing | `false` |
+
+---
+
+## Performance
+
+Oxipng gives you significant file size reductions but maintains the original image quality.
+
+* **Efficiency:** ~20-40% size reduction depending on the source
+* **Speed:** Uses browser threading via Web Workers for multi-core processing for batch uploads
+
+---
+
+Website design inspired by [Gleam](https://gleam.run)
