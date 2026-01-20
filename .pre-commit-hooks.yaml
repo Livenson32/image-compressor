@@ -1,0 +1,7 @@
+repos:
+-   repo: https://github.com/google/gts
+    rev: v7.0.0
+    hooks:
+    -   id: gts
+        name: gts-lint
+        entry: gts lint
