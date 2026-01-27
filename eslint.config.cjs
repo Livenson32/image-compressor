@@ -1,8 +1,15 @@
-import gts from 'gts';
+let customConfig = [];
+let hasIgnoresFile = false;
+try {
+  require.resolve('./eslint.ignores.js');
+  hasIgnoresFile = true;
+} catch {
+  // eslint.ignores.js doesn't exist
+}
 
-export default [
-  ...gts.configs.recommended,
-  {
-    ignores: ['build/**', 'node_modules/**']
-  }
-];
+if (hasIgnoresFile) {
+  const ignores = require('./eslint.ignores.js');
+  customConfig = [{ignores}];
+}
+
+module.exports = [...customConfig, ...require('gts')];
