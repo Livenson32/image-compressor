@@ -19,4 +19,4 @@ Unlimited image compression queue and can support processing 10+ images all at t
 
 Mobile friendly image comparison side by side with original and compressed image to check quality changes
 
-<p align="center"><img src="https://wsrv.nl/?url=raw.githubusercontent.com/Sethispr/image-compressor/main/assets/IMG_7517.jpeg" alt="img-compress web preview" height="500"></p>
+<p align="center"><img src="https://wsrv.nl/?url=raw.githubusercontent.com/Sethispr/image-compressor/main/assets/IMG_7517.jpeg" alt="img-compress web preview" height="635"></p>
