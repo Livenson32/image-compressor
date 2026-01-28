@@ -1,4 +1,4 @@
-<p align="center">[IN DEVELOPMENT]<br />Image optimizer website using jSquash WebAssembly similar to squoosh</b></p><p align="center"><img src="https://wsrv.nl/?url=raw.githubusercontent.com/Sethispr/image-compressor/main/assets/IMG_7503.jpeg" alt="img-compress web preview" height="500">
+<p align="center"><b>[IN DEVELOPMENT]</b><br />Image optimizer website using jSquash WebAssembly similar to squoosh</b></p><p align="center"><img src="https://wsrv.nl/?url=raw.githubusercontent.com/Sethispr/image-compressor/main/assets/IMG_7503.jpeg" alt="img-compress web preview" height="500">
 </p>
 
 # [image-compressor](https://img-compress.pages.dev/) (LIVE DEMO)
