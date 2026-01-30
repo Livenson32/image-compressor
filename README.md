@@ -1,25 +1,35 @@
-<p align="center">Bulk Image Optimizer website using WebAssembly</b><br />No ads, no trackers, no cookies, no signups</p><p align="center"><img src="https://wsrv.nl/?url=raw.githubusercontent.com/Sethispr/image-compressor/main/assets/IMG_7503.jpeg" alt="img-compress web preview" height="500">
+# Image Compressor
+
+<p align="center">
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Sethispr/image-compressor/main/assets/IMG_7503.jpeg" alt="image compressor web preview" height="500">
+
+<https://img-compress.pages.dev>
 </p>
+Bulk Image Compressor using WebAssembly (WASM). No ads, no trackers, no cookies, no signups.
 
-# [image-compressor](https://img-compress.pages.dev/) (LIVE DEMO)
+---
 
-<https://img-compress.pages.dev/>
+## Image Compressor Info
 
-Image-compressor is a fast, privacy-first image compressor that uses WebAssembly (wasm, modern codecs) to give near native compression speeds all in your browser. By using local client side processing, it bypasses traditional upload limits and data privacy concerns while giving you a highly customizable toolkit (img resizing, color reduction, lossless options, batch file renaming, etc).
+This image compressor is a fast, privacy first image compressor app that uses WebAssembly (wasm) and [modern codecs](https://github.com/jamsinclair/jSquash) to give near native compression speeds directly in your browser. This beats other sites that uses old JS based compression. By using local client side processing, this image compressor bypasses traditional upload limits and data privacy concerns while providing a highly customizable toolkit (image resizing, color reduction, lossless options, batch file renaming and more).
 
 Website design inspired by [Gleam](https://gleam.run)
 
-## Image Queue
+## Compression Queue
 
-Unlimited image compression queue and supports processing 10+ images all at the same time concurrently
+The compressor gives you unlimited image compression queue and supports processing 10+ images all at once (customizable too) 
 
-<p align="center"><img src="https://wsrv.nl/?url=raw.githubusercontent.com/Sethispr/image-compressor/main/assets/IMG_7505.jpeg" alt="img-compress web preview" height="500"></p>
+<p align="center">
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Sethispr/image-compressor/main/assets/IMG_7505.jpeg" alt="batch image compression queue preview" height="500">
+</p>
 
 ## Image Comparison
 
-Mobile friendly image comparison side by side with original and compressed image to check quality changes
+Mobile friendly image comparison shows a side by side view of the original and compressed image to check quality changes.
 
-<p align="center"><img src="https://wsrv.nl/?url=raw.githubusercontent.com/Sethispr/image-compressor/main/assets/IMG_7517.jpeg" alt="img-compress web preview" height="635"></p>
+<p align="center">
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Sethispr/image-compressor/main/assets/IMG_7517.jpeg" alt="image compressor quality comparison" height="635">
+</p>
 
 ---
 
