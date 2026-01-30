@@ -35,13 +35,8 @@ Mobile friendly image comparison shows a side by side view of the original and c
 
 ### Prerequisites
 
-This project requires **Node.js** to manage dependencies and run the development server.
-
-1. **Download:** Visit [nodejs.org](https://nodejs.org/) and download the "LTS" version (Recommended for most users).
-2. **Install:** Run the installer and follow the setup steps for your OS.
-3. **Verify:** Open your terminal and type: `node -v`
-
-*If a version number (v20.x.x etc) appears, you’re good to go!*
+- Node.js 18 or later
+- npm 7 or later
 
 ---
 
